@@ -1,4 +1,6 @@
-# Very much a work in progress
+# Very much a work in progress that has not progressed
+
+You should go to https://github.com/Automattic/wordpress-mcp for a fully functional WordPress MCP implementation.
 
 To try it you currently need a WordPress instance locally on `http://localhost:8888/`.
 
